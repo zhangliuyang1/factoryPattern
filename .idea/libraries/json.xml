@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="json">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/ZLY/lib/json-lib-1.1-jdk13.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ZLY/lib/commons-beanutils.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ZLY/lib/commons-collections-3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ZLY/lib/commons-lang-2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ZLY/lib/commons-logging.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ZLY/lib/ezmorph-1.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ZLY/lib/xom-1.0d10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
